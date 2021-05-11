@@ -1,16 +1,44 @@
-### Hi there 👋
+### Merhaba ben Snowy! 👋
 
-<!--
-**mynamesnowy/mynamesnowy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**İletişim:**  
 
-Here are some ideas to get you started:
+<a href="https://discord.gg/fGdTe5mXJa/">
+  <img align="left" alt="Snowy Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg" />
+</a>
+<a href="https://github.com/mynamesnowy">  
+  <img align="left" alt="Snowy Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UC6oSNbhjxuu0Geu-qKZ4LOA">
+  <img align="left" alt="Snowy Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=mynamesnowy&label=Görüntülenme&color=blue&style=plastic%22%20alt=%22mynamesnowy" alt="mynamesnowy" /> </p>
+
+- 🔭 Şuanda herhangi bir projem yok.
+- 🌱 TypeScript öğreniyorum...
+- 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
+
+**Diller:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<!--- 
+  if you have forked this to use on your profile, 
+  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
+--->
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+
+</a>
+<a href="https://github.com/mynamesnowy">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=mynamesnowy&show_icons=true&theme=light&line_height=27" alt="Snowy Github İstatistik"/>
+</a>
+
+
+<div align="center">
