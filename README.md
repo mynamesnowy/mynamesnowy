@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=mynamesnowy&label=Görüntülenme&color=blue&style=plastic%22%20alt=%22mynamesnowy" alt="mynamesnowy" /> </p>
 
 - 🔭 Şuanda herhangi bir projem yok.
-- 🌱 TypeScript öğreniyorum...
+- 🌱 HTML öğreniyorum...
 - 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
 
 **Diller ve Araçlar:**  
