@@ -21,10 +21,11 @@
 - 🌱 TypeScript öğreniyorum...
 - 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
 
-**Diller:**  
+**Diller ve Araçlar:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_512x512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
