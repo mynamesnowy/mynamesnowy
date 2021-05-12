@@ -13,21 +13,11 @@
 </a>
 
 <br />
-<br />
-
-### Spotify Dinliyorum 🎧
-
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Snowy Spotify Playing" width="350" />](https://open.spotify.com/user/5livrakrfumbl8q056ogx5hoi)
-
-
-<br />
-<br />
 
 - 🔭 Şuanda herhangi bir projem yok.
 - 🌱 HTML öğreniyorum...
 - 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
 
-<br />
 <br />
 
 <details>
