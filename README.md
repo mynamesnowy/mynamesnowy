@@ -12,7 +12,8 @@
   <img align="left" alt="Snowy Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 - 🔭 Şuanda herhangi bir projem yok.
 - 🌱 HTML öğreniyorum...
