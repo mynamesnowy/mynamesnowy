@@ -15,24 +15,37 @@
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=mynamesnowy&label=Görüntülenme&color=blue&style=plastic%22%20alt=%22mynamesnowy" alt="mynamesnowy" /> </p>
+### Spotify Dinliyorum 🎧
+
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="Snowy Spotify Playing" width="350" />](https://open.spotify.com/user/5livrakrfumbl8q056ogx5hoi)
+
+
+<br />
+<br />
 
 - 🔭 Şuanda herhangi bir projem yok.
 - 🌱 HTML öğreniyorum...
 - 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
 
-**Diller ve Araçlar:**  
+<br />
+<br />
 
+<details>
+  <summary>Diller ve Araçlar</summary>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html_512x512.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+</details>
 
-
+<details>
 </a>
+  <summary>GitHub İstatistik</summary>
 <a href="https://github.com/mynamesnowy">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mynamesnowy&show_icons=true&theme=light&line_height=27" alt="Snowy Github İstatistik"/>
 </a>
+</details>
 
+<img src="https://komarev.com/ghpvc/?username=mynamesnowy&label=Sayfa Görüntülenme&color=blue&style=plastic%22%20alt=%22mynamesnowy" alt="mynamesnowy" /> </p>
 
 <div align="center">
