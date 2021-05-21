@@ -16,7 +16,6 @@
 <br/>
 
 - 🔭 Şuanda herhangi bir projem yok.
-- 🌱 HTML öğreniyorum...
 - 💬 Herhangi bir sorunuz olursa. [Tıkla](https://discord.gg/fGdTe5mXJa)
 
 <br />
