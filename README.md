@@ -12,7 +12,6 @@
   <img align="left" alt="Snowy Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-[![Discord Profil](https://lanyard-profile-readme.vercel.app/api/670290505053110332)](https://discord.com/users/670290505053110332)
 
 
 <br/>
